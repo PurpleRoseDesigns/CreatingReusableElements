@@ -1,0 +1,71 @@
+div {
+    font-size: large;
+    margin: auto;
+}
+
+button {
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: 800;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 5px;
+  }
+  
+  
+  .btn-default {
+    background-color: #f4b400;
+    color: #fff;
+  }
+  
+  .btn-danger {
+    background-color: #db4437;
+    color: #fff;
+  }
+  .btn-primary {
+    background-color: #4285f4;
+    padding: 5px;
+    color: #fff;
+  }
+
+  .form-container {
+    width: 80%;
+    background-color: white;
+    margin: auto;
+    margin-top: 1.5em;
+    /* box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24); */
+    border-width: 2px;
+    border-color: #427a4b;
+    border-style: solid;
+    padding-bottom: 10px;
+    border-radius: 15px;
+    margin-bottom: 1.5em;
+  }
+
+  .st-primary {
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+    background-color: #427a4b;
+    color: white;
+    width: 100%;
+  }
+
+  .st-complete {
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+    background-color: grey;
+    color: white;
+    width: 100%;
+  }
+
+  .st-cancelled {
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+    background-color: red;
+    color: white;
+    width: 100%;
+  }
+
+  h2 {
+    text-align: center;
+  }
